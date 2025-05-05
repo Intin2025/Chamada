@@ -11,4 +11,5 @@ Alunos:
 5. Andréia Vitória Silva Damacena
 6. Samuel Lins Dantas Nunes 
 7. Miguel Sthevão P. S. da Silva
-8. Maria Aparecida Duarte Rolim
+8. Pietra Fernandes
+9. Maria Aparecida Duarte Rolim
