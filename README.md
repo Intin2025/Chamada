@@ -18,4 +18,3 @@ Alunos:
 12. Nayara Kelly Soares de Lima 
 12. Isaac Gonçalves Rolim
 13. Márcia Vitória Abrantes Pinheiro
-14. Renata Lacerda Dantas
