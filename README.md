@@ -23,6 +23,10 @@ Alunos:
 13. Márcia Vitória Abrantes Pinheiro
 14. Cleidiane Lira gomes
 20. Angélica Bruno Lopes Gonçalves
+21. Natália de Abreu Silva
+30. José Erick de Souza Lira
+14. Cleidiane Lira gomes
+20. Angélica Bruno Lopes Gonçalves
 21. Giovane Abrantes 
 22. Kaio gabriel
 23. D'Ávila Dandara da Nóbrega Amador
