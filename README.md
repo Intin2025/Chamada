@@ -17,3 +17,4 @@ Alunos:
 11. Ariadne Ferreira Alves
 12. Isaac Gonçalves Rolim
 13. Márcia Vitória Abrantes Pinheiro
+14. Renata Lacerda Dantas
