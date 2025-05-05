@@ -5,6 +5,7 @@ Aula sobre push
 
 Alunos:
 1. Tarcísio de Freitas Albuquerque
+2. Carol Alexandre Querino
 2. Emanuel Rodrigues Batista
 3. Pedro Arthur Maciel Albuquerque
 4. José Frankarllyson Lima do Nascimento
@@ -21,3 +22,6 @@ Alunos:
 12. Isaac Gonçalves Rolim
 13. Márcia Vitória Abrantes Pinheiro
 30. José Erick de Souza Lira
+14. Cleidiane Lira gomes
+20. Angélica Bruno Lopes Gonçalves
+21. Giovane Abrantes 
