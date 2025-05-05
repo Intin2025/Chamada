@@ -21,7 +21,7 @@ Alunos:
 12. Isaac Gonçalves Rolim
 13. Márcia Vitória Abrantes Pinheiro
 14. Renata Lacerda Dantas
-15. Isabele de Moura Maciel 
+1. Isabele de Moura Maciel 
 14. Cleidiane Lira gomes
 20. Angélica Bruno Lopes Gonçalves
 
