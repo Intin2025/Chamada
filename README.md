@@ -16,3 +16,4 @@ Alunos:
    
 10. Maria Aparecida Duarte Rolim
 11. Ariadne Ferreira Alves
+12. Nayara Kelly Soares de Lima 
