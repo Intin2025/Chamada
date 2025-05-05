@@ -12,4 +12,6 @@ Alunos:
 6. Samuel Lins Dantas Nunes 
 7. Miguel Sthevão P. S. da Silva
 8. Pietra Fernandes
-9. Maria Aparecida Duarte Rolim
+9. Andreina Ferreira de Freitas
+   
+10. Maria Aparecida Duarte Rolim
