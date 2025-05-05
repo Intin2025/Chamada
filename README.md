@@ -35,3 +35,4 @@ Alunos:
 25. José Ferreira Silva
 26. Matheus de Souza Oliveira
 21. Maria Vitória Rodrigues da Silva
+22. Wemmilly da Silva Leite
