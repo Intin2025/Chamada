@@ -27,3 +27,4 @@ Alunos:
 21. Giovane Abrantes 
 22. Kaio gabriel
 23. D'Ávila Dandara da Nóbrega Amador
+23.Maria Eduarda Pinheiro Calixto 
