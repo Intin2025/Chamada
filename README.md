@@ -4,6 +4,7 @@ Professor: Antônio Ricart J de O Medeiros
 Aula sobre push
 
 Alunos:
+
 1. Tarcísio de Freitas Albuquerque
 2. Carol Alexandre Querino
 2. Emanuel Rodrigues Batista
@@ -28,3 +29,4 @@ Alunos:
 22. Kaio gabriel
 23. D'Ávila Dandara da Nóbrega Amador
 23.Maria Eduarda Pinheiro Calixto 
+25. José Ferreira Silva
