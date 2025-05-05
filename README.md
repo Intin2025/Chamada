@@ -24,9 +24,7 @@ Alunos:
 12. Nayara Kelly Soares de Lima 
 12. Isaac Gonçalves Rolim
 13. Márcia Vitória Abrantes Pinheiro
-<<<<<<< HEAD
 14. Cleidiane Lira gomes
-=======
 20. Angélica Bruno Lopes Gonçalves
->>>>>>> 29183af972efcb35be1dda9d175a156a46d86a04
->>>>>>> 115b7e388c38e19336e9de97353dfd02f615a574
+21. Giovane Abrantes 
+
