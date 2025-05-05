@@ -2,5 +2,5 @@
 Professor: Antônio Ricart
 Alunos:
 1. Tarcísio de Freitas Albuquerque
-2. ...
+2. Maria Aparecida Duarte Rolim
 3. ...
