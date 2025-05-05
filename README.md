@@ -25,4 +25,4 @@ Alunos:
 14. Cleidiane Lira gomes
 20. Angélica Bruno Lopes Gonçalves
 21. Giovane Abrantes 
-22. José Eduardo Gonçalves Agostinho
+26. José Eduardo Gonçalves Agostinho
