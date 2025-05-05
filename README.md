@@ -10,3 +10,4 @@ Alunos:
 4. José Frankarllyson Lima do Nascimento
 5. Andréia Vitória Silva Damacena
 6. Samuel Lins Dantas Nunes 
+7. Miguel Sthevão P. S. da Silva
