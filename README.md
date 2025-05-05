@@ -15,3 +15,4 @@ Alunos:
 9. Andreina Ferreira de Freitas
    
 10. Maria Aparecida Duarte Rolim
+11. Ariadne Ferreira Alves
