@@ -13,4 +13,4 @@ Alunos:
 7. Miguel Sthevão P. S. da Silva
 8. Pietra Fernandes
 9. Andreina Ferreira de Freitas
-   
+7. D'Ávila Dandara da Nóbrega Amador
