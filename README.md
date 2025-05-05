@@ -1,6 +1,14 @@
 # chamada 05/05/2025
-Professor: Antônio Ricart
+Professor: Antônio Ricart J de O Medeiros
+
+Aula sobre push
+
 Alunos:
 1. Tarcísio de Freitas Albuquerque
-2. Maria Aparecida Duarte Rolim
-3. ...
+2. Emanuel Rodrigues Batista
+3. Pedro Arthur Maciel Albuquerque
+4. José Frankarllyson Lima do Nascimento
+5. Andréia Vitória Silva Damacena
+6. Samuel Lins Dantas Nunes 
+7. Miguel Sthevão P. S. da Silva
+8. Maria Aparecida Duarte Rolim
