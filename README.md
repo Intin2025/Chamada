@@ -21,4 +21,3 @@ Alunos:
 12. Nayara Kelly Soares de Lima 
 12. Isaac Gonçalves Rolim
 13. Márcia Vitória Abrantes Pinheiro
->>>>>>> 701c0d1bc7f666aa19802603c7934e57d291ff2f
