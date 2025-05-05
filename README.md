@@ -13,9 +13,4 @@ Alunos:
 7. Miguel Sthevão P. S. da Silva
 8. Pietra Fernandes
 9. Andreina Ferreira de Freitas
-<<<<<<< HEAD
-10. Márcia Vitória Abrantes Pinheiro
-=======
-   
-10. Maria Aparecida Duarte Rolim
->>>>>>> 7a3621b422e884e05e90cdcac6537b33e49ed3b3
+Márcia Vitória Abrantes Pinheiro
