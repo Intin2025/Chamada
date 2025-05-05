@@ -11,4 +11,6 @@ Alunos:
 5. Andréia Vitória Silva Damacena
 6. Samuel Lins Dantas Nunes 
 7. Miguel Sthevão P. S. da Silva
-8. Márcia Vitória Abrantes Pinheiro
+8. Pietra Fernandes
+9. Andreina Ferreira de Freitas
+10. Márcia Vitória Abrantes Pinheiro
