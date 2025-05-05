@@ -20,8 +20,6 @@ Alunos:
 12. Nayara Kelly Soares de Lima 
 12. Isaac Gonçalves Rolim
 13. Márcia Vitória Abrantes Pinheiro
-<<<<<<< HEAD
 14. Cleidiane Lira gomes
-=======
 20. Angélica Bruno Lopes Gonçalves
->>>>>>> 29183af972efcb35be1dda9d175a156a46d86a04
+21. Natália de Abreu Silva
