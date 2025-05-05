@@ -14,4 +14,11 @@ Alunos:
 8. Pietra Fernandes
 9. Andreina Ferreira de Freitas
 10. Maria Aparecida Duarte Rolim
+<<<<<<< HEAD
 11. Ariadne Ferreira Alves
+=======
+11. Ariadne Ferreira Alves
+12. Nayara Kelly Soares de Lima 
+12. Isaac Gonçalves Rolim
+13. Márcia Vitória Abrantes Pinheiro
+>>>>>>> 701c0d1bc7f666aa19802603c7934e57d291ff2f
