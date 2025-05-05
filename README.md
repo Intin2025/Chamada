@@ -13,4 +13,7 @@ Alunos:
 7. Miguel Sthevão P. S. da Silva
 8. Pietra Fernandes
 9. Andreina Ferreira de Freitas
-Márcia Vitória Abrantes Pinheiro
+10. Maria Aparecida Duarte Rolim
+11. Ariadne Ferreira Alves
+12. Isaac Gonçalves Rolim
+13. Márcia Vitória Abrantes Pinheiro
