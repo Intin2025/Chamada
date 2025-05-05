@@ -4,5 +4,5 @@ Alunos:
 1. Tarcísio de Freitas Albuquerque
 2. Emanuel Rodrigues Batista
 3. Pedro Arthur Maciel Albuquerque
-4. Frankarllyson lindo
+4. José Frankarllyson Lima do Nascimento
 5. Andréia Vitória Silva Damacena
