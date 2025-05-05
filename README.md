@@ -21,7 +21,7 @@ Alunos:
 12. Nayara Kelly Soares de Lima 
 12. Isaac Gonçalves Rolim
 13. Márcia Vitória Abrantes Pinheiro
+30. José Erick de Souza Lira
 14. Cleidiane Lira gomes
 20. Angélica Bruno Lopes Gonçalves
 21. Giovane Abrantes 
-
