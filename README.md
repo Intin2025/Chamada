@@ -9,3 +9,4 @@ Alunos:
 3. Pedro Arthur Maciel Albuquerque
 4. José Frankarllyson Lima do Nascimento
 5. Andréia Vitória Silva Damacena
+6. Márcia Vitória Abrantes Pinheiro
