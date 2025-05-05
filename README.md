@@ -5,5 +5,7 @@ Aula sobre push
 
 Alunos:
 1. Tarcísio de Freitas Albuquerque
-2. ...
-3. ...
+2. Emanuel Rodrigues Batista
+3. Pedro Arthur Maciel Albuquerque
+4. Frankarllyson lindo
+5. Andréia Vitória Silva Damacena
