@@ -5,10 +5,7 @@ Aula sobre push
 
 Alunos:
 1. Tarcísio de Freitas Albuquerque
-<<<<<<< HEAD
 2. Carol Alexandre Querino
-3. ...
-=======
 2. Emanuel Rodrigues Batista
 3. Pedro Arthur Maciel Albuquerque
 4. José Frankarllyson Lima do Nascimento
